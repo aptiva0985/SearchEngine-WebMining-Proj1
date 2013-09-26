@@ -1,0 +1,33 @@
+Summary log for queries
+
+num_q all	30
+num_ret all	2608
+num_rel all	531
+num_rel_ret all	398
+map all	0.2693
+gm_ap all	0.0072
+R-prec all	0.2817
+bpref all	0.3044
+recip_rank all	0.3721
+ircl_prn.0.00 all	0.4357
+ircl_prn.0.10 all	0.4014
+ircl_prn.0.20 all	0.3976
+ircl_prn.0.30 all	0.3508
+ircl_prn.0.40 all	0.3337
+ircl_prn.0.50 all	0.3085
+ircl_prn.0.60 all	0.3002
+ircl_prn.0.70 all	0.2740
+ircl_prn.0.80 all	0.2228
+ircl_prn.0.90 all	0.0994
+ircl_prn.1.00 all	0.0508
+P5 all	0.2867
+P10 all	0.2833
+P15 all	0.2933
+P20 all	0.2833
+P30 all	0.2544
+P100 all	0.1327
+P200 all	0.0663
+P500 all	0.0265
+P1000 all	0.0133
+
+13 seconds
